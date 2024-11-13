@@ -63,11 +63,7 @@
   "tooltip.oritech.machine_rate_desc": "Consommation d'énergie : ",
   "tooltip.oritech.machine_capacity_desc": "Capacité d'énergie : ",
   "tooltip.oritech.solar_generation": "Le taux de génération dépend de la qualité du noyau",
-<<<<<<< Updated upstream
-  "tooltip.oritech.needs_laser_power": "Doit être alimenté via un laser enderic",
-=======
   "tooltip.oritech.needs_laser_power": "Doit être alimenté via un laser enderique",
->>>>>>> Stashed changes
   "tooltip.oritech.steam_engine": "Transforme la vapeur en RF et en eau. Peut être enchaîné",
   "tooltip.oritech.item_filter": "Utilisé pour filtrer quels objets peuvent être insérés dans un inventaire.",
   "button.oritech.item_filter.whitelist": "Liste blanche",
@@ -460,11 +456,7 @@
   "item.oritech.steel_dust": "Poussière d'acier",
   "item.oritech.coal_dust": "Poussière de charbon",
   "item.oritech.carbon_fibre_strands": "Fils de fibre de carbone",
-<<<<<<< Updated upstream
-  "item.oritech.enderique_compound": "Composé Enderique",
-=======
   "item.oritech.enderic_compound": "Composé Enderique",
->>>>>>> Stashed changes
   "item.oritech.strange_matter": "Matière étrange",
   "item.oritech.fine_wire": "Fil fin",
   "item.oritech.insulated_wire": "Fil fin isolé",
@@ -481,11 +473,7 @@
   "item.oritech.advanced_computing_engine": "Moteur de calcul avancé",
   "item.oritech.silicon_wafer": "Plaquette de silicone",
   "item.oritech.dubios_container": "Conteneur douteux",
-<<<<<<< Updated upstream
-  "item.oritech.enderique_lens": "Lentille Enderique",
-=======
   "item.oritech.enderic_lens": "Lentille Enderique",
->>>>>>> Stashed changes
   "item.oritech.flux_gate": "Contrôleur de flux",
   "item.oritech.advanced_battery": "Batterie avancée",
   "item.oritech.super_ai_chip": "Super puce IA",
